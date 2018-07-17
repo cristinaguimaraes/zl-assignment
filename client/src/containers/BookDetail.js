@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
 import { connect } from 'react-redux'
 import './BookDetail.css'
-import { fetchBookDetail } from '../API/fetchAPI'
+import { fetchBookDetail } from '../data/fetchMockServer'
 import { bookDetail } from '../store/actions'
 import { Navbar, Book} from '../components'
 

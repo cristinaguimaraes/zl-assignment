@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react'
 import './CreateBookForm.css'
-import { fetchPostBook } from '../API/fetchAPI'
+import { fetchPostBook } from '../data/fetchMockServer'
 import { Navbar } from '../components'
 
 export default class CreateBookForm extends Component {
