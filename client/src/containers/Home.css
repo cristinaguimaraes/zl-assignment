@@ -1,0 +1,19 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  top: 30%;
+  bottom: 30%
+}
+
+.Title{
+  font-size: 50px;
+  margin-bottom: 50px
+}
+
+.LinkButton {
+  margin-bottom: 10px
+}

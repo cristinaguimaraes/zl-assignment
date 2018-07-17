@@ -1,0 +1,18 @@
+.list {
+display: flex;
+flex-direction: column;
+  position: absolute;
+  top: 55%;
+  botton: 10%;
+  left: 10%;
+  right: 10%
+}
+
+.listElement {
+  margin-bottom: 50px;
+}
+
+.titleListBooks {
+  margin-bottom: 50px;
+  font-size: 50px
+}

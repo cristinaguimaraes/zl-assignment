@@ -1,0 +1,13 @@
+
+
+.formBookDetail {
+  max-width: 300px;
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  top: 10%;
+  bottom: 60%;
+  margin: auto;
+  background: white;
+  padding-top: 10px;
+}
