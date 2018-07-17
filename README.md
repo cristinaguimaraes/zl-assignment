@@ -1,7 +1,7 @@
 # zl-assignment
 
 # Mock Server
-`http://private-5593e1-zlassignment.apiary-mock.com`
+`https://zlassignment.docs.apiary.io`
 
 # Running the Frontend
 
