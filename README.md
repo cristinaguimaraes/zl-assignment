@@ -1,5 +1,8 @@
 # zl-assignment
 
+# Mock Server
+`http://private-5593e1-zlassignment.apiary-mock.com`
+
 # Running the Frontend
 
 ## Steps
@@ -8,7 +11,7 @@
   
  ## 1. Clone the Repo
 
-Clone the `Nanny-Express-client code` locally. In a terminal, run:
+Clone the `zl-assignment code` locally. In a terminal, run:
 
   `git clone https://github.com/cristinaguimaraes/zl-assignment.git`
   
