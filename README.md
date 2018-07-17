@@ -20,6 +20,7 @@ Clone the `zl-assignment code` locally. In a terminal, run:
 
 In the terminal, run:
 ```
+cd client
 npm install
 npm start
 ```
