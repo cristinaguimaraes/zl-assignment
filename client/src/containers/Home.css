@@ -1,12 +1,11 @@
 .Home {
+  max-width: 300px;
   display: flex;
   flex-direction: column;
-  max-width: 300px;
   position: absolute;
-  left: 20%;
-  right: 20%;
-  top: 30%;
-  bottom: 30%
+  left: 35%;
+  right: 30%;
+  top: 10%
 }
 
 .Title{
